@@ -185,14 +185,14 @@ p {
 .buttonMainColor:hover {
 	font-weight: 800;
 	border-width: 3px;
-	background-color: #11e330;
+	background-color: #5011e3;
     color: rgb(105, 46, 168);
 }
 
 .buttonSecondColor:hover {
 	font-weight: 800;
 	border-width: 3px;
-	background-color: #11e330;
+	background-color: #5011e3;
     color: rgb(105, 46, 168);
 }
 
