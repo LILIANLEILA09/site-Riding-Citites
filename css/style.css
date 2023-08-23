@@ -176,17 +176,16 @@ p {
 .buttonRounded {
   border-radius: 39px;
 }
-
+.buttonHighlight:hover {
+	font-weight: 800;
+	border-width: 3px;
+}
 .buttonMainColor:hover {
-  font-weight: 800;
-  border-width: 3px;
   background-color: #e44444;
   color: #ffff;
 }
 
 .buttonSecondColor:hover {
-  font-weight: 800;
-  border-width: 3px;
   background-color: #cd487b;
   color: #fff;
 }
