@@ -189,23 +189,14 @@ p {
 }
 
 .buttonMainColor:hover {
-	font-weight: 800;
-	border-width: 3px;
-   background-color: #E44444;
+    background-color: #E44444;
     color: #ffff;
-  font-weight: 800;
-  border-width: 3px;
-  background-color: #e44444;
-  color: #ffff;
+    
 }
 
 .buttonSecondColor:hover {
-	font-weight: 800;
-	border-width: 3px;
 	background-color:#CD487B;
     color: #fff;
-  font-weight: 800;
-  border-width: 3px;
-  background-color: #cd487b;
-  color: #fff;
+  
+  
 }
